@@ -1,7 +1,7 @@
 # object_oriendted_programming
 
 # course : objective_oriented_programming
-Problems and solutions are in each weekly file.
+Problems and solution source codes are in each weekly file.
 
 # [lecture list]
 1. C++ Basic (1/2)
